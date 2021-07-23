@@ -32,8 +32,24 @@ style="max-width:100%;">
 <img align="center" alt="gedione-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
 style="max-width:100%;">
 </a>
+
+## What I'm learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="java" width="40" height="40" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="java" width="40" height="40" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="java" width="40" height="40" style="max-
+  width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="java" width="40" height="40" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java" width="40" height="40" style="max-
+  width:100%;"></img>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="java" width="40" height="40" style="max-
+  width:100%;"></img>
  
- ![Snake animation](https://github.com/GedioneSouza/GedioneSouza/blob/output/github-contribution-grid-snake.svg)
+  
  
  ## My Skills
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="max-
@@ -42,6 +58,16 @@ style="max-width:100%;">
   width:100%;"></img>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-
   width:100%;"></img>
+  
+  ![Snake animation](https://github.com/GedioneSouza/GedioneSouza/blob/output/github-contribution-grid-snake.svg)
+  
+  <p align="center">
+ Quantidade de visitas no meu perfil desde: 16/06/2021 🕵️ <br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/GedioneSouza/count.svg" /></p>
+<p align="center">
+Obrigado e volte sempre! 😄
+</p>
   
   
   
