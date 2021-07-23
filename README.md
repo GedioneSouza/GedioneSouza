@@ -7,6 +7,15 @@
 - Computer technician in training by Senac 🧑‍💻
 - I've learned more about HardWare, Java and DataBase. 
 
+
+<span align="center">
+
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hellooo Helloo World! </h2>
+
+</span>
+
+
+
 <p align="center">
   Heey! It's so good to see you here. <br>I'm Gedione, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm attending generation brazil bootcamp to graduate a <strong>Java Jr. Full Stack developer</strong>.<br />
 <strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
