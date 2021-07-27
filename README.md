@@ -11,6 +11,7 @@
 ![Alt Text](https://th.bing.com/th/id/R.cd59d626dc86397fe45080e6e9c7027d?rik=FMmSpgqbOZPz%2bQ&riu=http%3a%2f%2fstudiopixel.in%2fwp-content%2fuploads%2f2017%2f11%2fsenior-front-end-developer-openings-1.gif&ehk=mUxOzxB0r4nDxzX4RU%2fzPaMHUzaTGpDYRXpWhYVG9%2fQ%3d&risl=&pid=ImgRaw{user}/{repo}/raw/{branch}/path/to/image.gif)
 
 
+
 ## My presentation
 <p align="center">
 Hellooo Helloo World! </h6>
@@ -29,38 +30,38 @@ Hellooo Helloo World! </h6>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gedione-a-dantas-de-souza-92bb2b182/" target="_blank">
-<img align="center" alt="gedione-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+<img align="center" alt="gedione-linkedin" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/ge.souza_20/" target="_blank">
-<img align="center" alt="gedione-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+<img align="center" alt="gedione-instagram" height="60" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
 style="max-width:100%;">
 </a>
 
 ## What I'm learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="java" width="40" height="40" style="max-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" style="max-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="80" style="max-
   width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="java" width="40" height="40" style="max-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="java" width="40" height="40" style="max-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="java" width="40" height="40" style="max-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java" width="40" height="40" style="max-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="java" width="40" height="40" style="max-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
  
   
  
  ## My Skills
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="max-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="70" height="80" style="max-
   width:100%;"></img>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="80" style="max-
   width:100%;"></img>
   
   ![Snake animation](https://github.com/GedioneSouza/GedioneSouza/blob/output/github-contribution-grid-snake.svg)
