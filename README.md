@@ -11,7 +11,8 @@
 
 <span align="center">
 
-## <img src="https://pbs.twimg.com/media/C3nCL36W8AMYI4A.jpg" width="220px"> Hellooo Helloo World! </h2>
+## <img src="https://pbs.twimg.com/media/C3nCL36W8AMYI4A.jpg" width="200px">
+  Hellooo Helloo World! </h6>
 
 </span>
 
