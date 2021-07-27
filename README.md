@@ -11,7 +11,7 @@
 
 <span align="center">
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hellooo Helloo World! </h2>
+## <img src="https://pbs.twimg.com/media/C3nCL36W8AMYI4A.jpg" width="220px"> Hellooo Helloo World! </h2>
 
 </span>
 
