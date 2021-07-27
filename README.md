@@ -8,21 +8,23 @@
 - I've learned more about HardWare, Java and DataBase. 
 
 
-
-<span align="center">
-
-## <img src="https://pbs.twimg.com/media/C3nCL36W8AMYI4A.jpg" width="200px">
-  Hellooo Helloo World! </h6>
-
-</span>
+![Alt Text](https://th.bing.com/th/id/R.cd59d626dc86397fe45080e6e9c7027d?rik=FMmSpgqbOZPz%2bQ&riu=http%3a%2f%2fstudiopixel.in%2fwp-content%2fuploads%2f2017%2f11%2fsenior-front-end-developer-openings-1.gif&ehk=mUxOzxB0r4nDxzX4RU%2fzPaMHUzaTGpDYRXpWhYVG9%2fQ%3d&risl=&pid=ImgRaw{user}/{repo}/raw/{branch}/path/to/image.gif)
 
 
-
+## My presentation
+<p align="center">
+Hellooo Helloo World! </h6>
+</p>
 <p align="center">
   Heey! It's so good to see you here. <br>I'm Gedione, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm attending generation brazil bootcamp to graduate a <strong>Java Jr. Full Stack developer</strong>.<br />
 <strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
 
 </p>
+
+<p align="center">
+<img src="https://pbs.twimg.com/media/C3nCL36W8AMYI4A.jpg" width="300px">
+</p>
+
 
 
 ## Connect with me:
