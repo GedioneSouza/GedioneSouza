@@ -8,9 +8,11 @@
 - I've learned more about HardWare, Java and DataBase. 
 
 
-![Alt Text](https://th.bing.com/th/id/R.cd59d626dc86397fe45080e6e9c7027d?rik=FMmSpgqbOZPz%2bQ&riu=http%3a%2f%2fstudiopixel.in%2fwp-content%2fuploads%2f2017%2f11%2fsenior-front-end-developer-openings-1.gif&ehk=mUxOzxB0r4nDxzX4RU%2fzPaMHUzaTGpDYRXpWhYVG9%2fQ%3d&risl=&pid=ImgRaw{user}/{repo}/raw/{branch}/path/to/image.gif)
 
 
+<p align="center">
+<img src="https://pbs.twimg.com/media/C3nCL36W8AMYI4A.jpg" width="300px">
+</p>
 
 ## My presentation
 <p align="center">
@@ -21,22 +23,26 @@ Hellooo Helloo World! </h6>
 <strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
 
 </p>
-
-<p align="center">
-<img src="https://pbs.twimg.com/media/C3nCL36W8AMYI4A.jpg" width="300px">
-</p>
-
+ 
+![gif bonito](https://user-images.githubusercontent.com/86319074/127420988-a3ee3336-fe93-4b6f-b34b-72fbf5816f82.gif)
 
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gedione-a-dantas-de-souza-92bb2b182/" target="_blank">
-<img align="center" alt="gedione-linkedin" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+<img align="center" alt="gedione-linkedin" height="60" width="70" src="https://user-images.githubusercontent.com/86319074/127416561-5c812fe9-94cf-41b8-9923-b376e12c3c8f.gif"
 style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/ge.souza_20/" target="_blank">
-<img align="center" alt="gedione-instagram" height="60" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+<img align="center" alt="gedione-instagram" height="60" width="70" src="https://user-images.githubusercontent.com/86319074/127416880-0588adef-e966-428b-81a2-4d0228cf0b2f.gif"
 style="max-width:100%;">
 </a>
+<a href="https://mail.google.com/mail/u/0/?tab=km#inbox?compose=GFrJzjZtzRzqzXfqGQgVFCHKnKmdMnlnVzCpfxsxPPcwKclZkxVFxsVxktqqBZLWlqCL" target="_blank">
+<img align="center" alt="gedione-mail" height="60" width="70" src="https://user-images.githubusercontent.com/86319074/127418636-37178d96-f23b-4061-905a-1e4d302723d5.gif"
+style="max-width:100%;">
+</a>
+
+
+
 
 ## What I'm learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="java" width="70" height="80" style="max-
@@ -49,7 +55,7 @@ style="max-width:100%;">
   width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java" width="70" height="80" style="max-
+  <img src="https://user-images.githubusercontent.com/86319074/127418061-86f66ccd-1c90-4f19-968a-8982f818cdf8.gif" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="java" width="70" height="80" style="max-
   width:100%;"></img>
@@ -57,11 +63,11 @@ style="max-width:100%;">
   
  
  ## My Skills
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="70" height="80" style="max-
+ <img src="https://user-images.githubusercontent.com/86319074/127417170-dec4634c-c792-424f-bdf2-57581715af4a.gif" alt="java" width="80" height="90" style="max-
   width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="70" height="80" style="max-
+  <img src="https://user-images.githubusercontent.com/86319074/127417329-a64735cf-8db2-49f7-aeb2-5642b8e35814.gif" width="80" height="90" style="max-
   width:100%;"></img>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="80" style="max-
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="80" height="90" style="max-
   width:100%;"></img>
   
   ![Snake animation](https://github.com/GedioneSouza/GedioneSouza/blob/output/github-contribution-grid-snake.svg)
