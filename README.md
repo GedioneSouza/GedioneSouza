@@ -37,7 +37,7 @@
 
 
 <p align="center">
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628023828206.png" width="300px">
+<img src="https://user-images.githubusercontent.com/86319074/128567345-7dc578ea-c370-42ce-8c87-06468bbec250.png" width="300px">
 </p>
 
 
