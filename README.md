@@ -43,7 +43,7 @@
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/gedione-a-dantas-de-souza-92bb2b182/" target="_blank">
+<a href="https://www.linkedin.com/in/gedionesouza/" target="_blank">
 <img align="center" alt="gedione-linkedin" height="60" width="70" src="https://user-images.githubusercontent.com/86319074/128098750-165991ba-98d0-4d8c-96ad-322b1dbc4caa.png"   
 style="max-width:100%;">
 </a>
