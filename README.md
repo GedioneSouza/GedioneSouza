@@ -21,18 +21,16 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Java ☕ projects**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** *10% inspiration* 💡 and *90% perspiration* 💪
+- I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- I’m *currently learning* how to **flex README** on my **profile** 💪.
+- I’m *looking to collaborate* on **Java ☕ projects**.
+- **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+- **Fun fact:** *10% inspiration* 💡 and *90% perspiration* 💪
 
   
 
 - I live in 🇧🇷, São Paulo  😎 🌇
-- I studied with java development, database recently, and I'm graduating as a Java Jr. Full Stack developer at Generation Brazil 💻
-- Computer technician in training by Senac 🧑‍💻
-- I've learned more about HardWare, Java and DataBase. 
+ 
 
 
 
