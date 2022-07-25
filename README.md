@@ -10,7 +10,8 @@
   <em>
     
    
-  Heey! It's so good to see you here. <br>I'm Gedione, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> also, and I'm attending generation brazil bootcamp to graduate a <strong>Java Jr. Full Stack developer</strong>.<br />
+  Heey! It's so good to see you here. <br>I'm Gedione, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> also, and I'm studying at the Senac university center, to graduate in
+<strong>Systems Analysis and Development</strong>.<br />
 <strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
 </p>
   
