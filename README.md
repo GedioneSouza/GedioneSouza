@@ -23,7 +23,7 @@
 
 - I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - I’m *currently learning* how to **flex README** on my **profile** 💪.
-- I’m *looking to collaborate* on **JavaScript ☕ projects**.
+- I’m *looking to collaborate* on **Java and JavaScript ☕ projects**.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - **Fun fact:** *10% inspiration* 💡 and *90% perspiration* 💪
 
