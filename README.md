@@ -10,9 +10,8 @@
   <em>
     
    
-  Heey! It's so good to see you here. <br>I'm Gedione, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> also, and I'm studying at the Senac university center, to graduate in
-<strong>Systems Analysis and Development</strong>.<br />
-<strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
+  Heey! It's so good to see you here. <br>I'm Gedione, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> also, and
+<strong>graduated in systems analysis and development at Senac.</strong><br />
 </p>
   
  
@@ -22,8 +21,6 @@
 <br>
 
 - I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- I’m *currently learning* how to **flex README** on my **profile** 💪.
-- I’m *looking to collaborate* on **Java and JavaScript ☕ projects**.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - **Fun fact:** *10% inspiration* 💡 and *90% perspiration* 💪
 
@@ -47,44 +44,44 @@
 style="max-width:100%;">
 </a>
 
-<a href="https://www.instagram.com/ge.souza_20/" target="_blank">
-<img align="center" alt="gedione-instagram" height="60" width="70" src="https://user-images.githubusercontent.com/86319074/128098989-21f10ff9-6909-48b7-983b-d1b9a655fa4b.png"
-style="max-width:100%;">
-</a>
-
-<a href="https://mail.google.com/mail/u/0/?tab=km#inbox?compose=GFrJzjZtzRzqzXfqGQgVFCHKnKmdMnlnVzCpfxsxPPcwKclZkxVFxsVxktqqBZLWlqCL" target="_blank">
-<img align="center" alt="gedione-mail" height="60" width="70" src="https://user-images.githubusercontent.com/86319074/128099093-f32d2fa3-7366-40dc-a66d-80a0e4c9c723.png"
-style="max-width:100%;">
-</a>
-
-
-
-
-## What I'm learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="java" width="70" height="80" style="max-
-  width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="80" style="max-
-  width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="java" width="70" height="80" style="max-
-  width:100%;"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="java" width="70" height="80" style="max-
-  width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="java" width="70" height="80" style="max-
-  width:100%;"></img>
-  <img src="https://user-images.githubusercontent.com/86319074/128099229-da5326df-e0ae-4b20-b146-5767504a4d56.png" alt="java scipt" width="70" height="80" style="max-
-  width:100%;"></img>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="70" height="80" style="max-
-  width:100%;"></img>
  
-  
  
  ## My Skills
- <img src="https://user-images.githubusercontent.com/86319074/128099722-fe1e2e24-ae65-4a92-94c0-c9a53bd2cce1.png" alt="java" width="70" height="70" style="max-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="react" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="react" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="70" height="80" style="max-
+  width:100%;"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="70" height="80" style="max-
+  width:100%;"></img>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="70" height="80" style="max-
   width:100%;"></img>
   <img src="https://user-images.githubusercontent.com/86319074/128100025-1f4fb00e-f140-4d9e-b4f7-2e964f1dea22.png" width="80" height="80" style="max-
   width:100%;"></img>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="80" style="max-
   width:100%;"></img>
+
+  ## Certifications
+   <a href="https://www.instagram.com/ge.souza_20/" target="_blank">
+        <p>Microsoft Certified: Azure Fundamentals</p>
+    </a>
+
+
   
   ![Snake animation](https://github.com/GedioneSouza/GedioneSouza/blob/output/github-contribution-grid-snake.svg)
   
