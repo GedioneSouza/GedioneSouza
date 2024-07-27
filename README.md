@@ -77,7 +77,7 @@ style="max-width:100%;">
   width:100%;"></img>
 
   ## Certifications
-   <a href="https://www.instagram.com/ge.souza_20/" target="_blank">
+   <a href="https://learn.microsoft.com/pt-br/users/gedionesouza-0730/credentials/5834ba7370bf0fb6?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
         <p>Microsoft Certified: Azure Fundamentals</p>
     </a>
 
